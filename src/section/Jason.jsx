@@ -27,9 +27,9 @@ const Jason = () => {
   return (
     <section className='jason'>
         <div className="max-w-lg jason-content">
-            <h1>Jason Duval</h1>
-            <h2>Jason wants an easy life, but things just keep getting harder.</h2>
-            <p>Jason grew up around grifters and crooks. After a stint in the Army trying to shake off his troubled teens, he found himself in the Keys doing what he knows best, working for local drug runners. It might be time to try something new.</p>
+            <h1>The Lamborghini Urus</h1>
+            <h2>Lamborghini Urus is the first Super Sport Utility Vehicle in the world.</h2>
+            <p>It is a high-performance SUV, often described as the first Super Sport Utility Vehicle. It combines Lamborghini's signature super sports car design with the practicality of an SUV. The Urus is powered by a 4.0-liter twin-turbocharged V8 engine, producing 650 horsepower in the standard version and up to 790 horsepower in the new SE hybrid version.</p>
             <div className="jason-2">
                 <img src="/images/jason-2.jpg" />
             </div>
